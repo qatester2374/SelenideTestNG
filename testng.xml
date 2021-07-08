@@ -12,6 +12,11 @@
                     <include name="uploadImage2"/>
                 </methods>
             </class>
+            <class name="com.selenide.testng.jr.Register">
+                <methods>
+                    <include name="openRegisterWindow"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
